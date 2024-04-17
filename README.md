@@ -94,6 +94,5 @@ endmodule
 
 ![image](https://github.com/CHANDRUMANIKANDAN/HALF_ADDER_SUBTRACTOR/assets/118644502/9767fc63-056a-4b2a-8c63-9040eba80982)
 
-**Result:**
-
+Result:
 It is verified successfully.
